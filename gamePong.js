@@ -146,6 +146,5 @@ function marcarPonto(){
   if (xBola < 10){
     rivalPontos += 1;
     ponto.play();
-  }
-  
+  }  
 }
